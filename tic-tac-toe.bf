@@ -1,4 +1,4 @@
-[     Fantastic game by mixtela: https://github.com/mitxela/bf-tic-tac-toe     ]
+[     fantastic game by mixtela: https://github.com/mitxela/bf-tic-tac-toe     ]
 
     +>-[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>++[-]->>>>+>>>+>>>+>>>+>>>+>    
  >>+>>>+>>>+>>>++[-<+]-<<<<+<<++++[->++++++++<]<++[------>+<]>++<<+[--->++<]>++ 
